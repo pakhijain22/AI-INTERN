@@ -14,17 +14,10 @@ HTML
 CSS
 JavaScript
 Backend
-(Add your backend technology here)
+
 Database
-(Add your database here)
-Project Structure
-AI-Internship-Portal/
-│
-├── index.html
-├── css/
-├── js/
-├── images/
-└── README.md
+
+
 How It Works
 Students create their profile.
 Users upload their resume and skill information.
