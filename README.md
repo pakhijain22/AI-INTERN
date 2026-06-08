@@ -14,7 +14,6 @@ HTML
 CSS
 JavaScript
 Backend
-
 Database
 
 
